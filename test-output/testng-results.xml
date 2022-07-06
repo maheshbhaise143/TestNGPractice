@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-23T09:21:05 IST" name="Suite" finished-at="2022-06-23T09:21:06 IST" duration-ms="94">
+    <groups>
+    </groups>
+    <test started-at="2022-06-23T09:21:05 IST" name="Test" finished-at="2022-06-23T09:21:06 IST" duration-ms="94">
+      <class name="TestCases.TestNGAnnotations">
+        <test-method is-config="true" signature="BeforeSuit()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:05 IST" name="BeforeSuit" finished-at="2022-06-23T09:21:05 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuit -->
+        <test-method is-config="true" signature="BeforeTests()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:05 IST" name="BeforeTests" finished-at="2022-06-23T09:21:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTests -->
+        <test-method is-config="true" signature="BeforeClasss()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="BeforeClasss" finished-at="2022-06-23T09:21:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClasss -->
+        <test-method is-config="true" signature="BeforeeMethod()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="BeforeeMethod" finished-at="2022-06-23T09:21:06 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeeMethod -->
+        <test-method signature="TestCase1()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="TestCase1" finished-at="2022-06-23T09:21:06 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method is-config="true" signature="AftereMethod()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="AftereMethod" finished-at="2022-06-23T09:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftereMethod -->
+        <test-method is-config="true" signature="BeforeeMethod()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="BeforeeMethod" finished-at="2022-06-23T09:21:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeeMethod -->
+        <test-method signature="TestCase2()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="TestCase2" finished-at="2022-06-23T09:21:06 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method is-config="true" signature="AftereMethod()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="AftereMethod" finished-at="2022-06-23T09:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftereMethod -->
+        <test-method is-config="true" signature="AfterrClass()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="AfterrClass" finished-at="2022-06-23T09:21:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterrClass -->
+        <test-method is-config="true" signature="AfterTestCase()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="AfterTestCase" finished-at="2022-06-23T09:21:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestCase -->
+        <test-method is-config="true" signature="AfterrSuit()[pri:0, instance:TestCases.TestNGAnnotations@188715b5]" started-at="2022-06-23T09:21:06 IST" name="AfterrSuit" finished-at="2022-06-23T09:21:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterrSuit -->
+      </class> <!-- TestCases.TestNGAnnotations -->
+      <class name="TestCases.SimpleTestCase">
+        <test-method signature="TestCase1()[pri:0, instance:TestCases.SimpleTestCase@48ae9b55]" started-at="2022-06-23T09:21:06 IST" name="TestCase1" finished-at="2022-06-23T09:21:06 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+      </class> <!-- TestCases.SimpleTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
